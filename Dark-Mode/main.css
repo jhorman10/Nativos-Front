@@ -1,0 +1,13 @@
+:root{
+    color-scheme: light dark;
+
+}
+
+body{
+    margin: 0;
+    padding: 10px;
+    background-color: var(--background-color);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
